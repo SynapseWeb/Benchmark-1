@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="1" viewport="0 0 0.00275105"
+<Series index="0" viewport="0 0 0.00275105"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
