@@ -10,7 +10,7 @@ This provides a more objective basis for judging speed of tracing and for measur
 
 For easier reference, each closed region of the image is numbered with the following key image:
 
-![Benchmark_Key.jpeg](Benchmark_Key.jpeg?raw=true "Benchmark_Key.jpeg")
+![Benchmark_Key.jpeg](docs/Benchmark_Key.jpeg?raw=true "Benchmark_Key.jpeg")
 
 The closed regions are numbered (mostly clockwise) as:
 
