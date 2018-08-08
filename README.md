@@ -14,43 +14,43 @@ For easier reference, each closed region of the image is numbered with the follo
 
 The closed regions are numbered (mostly clockwise) as:
 
-| Regions |
-| ------- |
-| 1 |
-| 2 |
-| 2a |
-| 2a1 |
-| 3 |
-| 4 |
-| 4a |
-| 4a1 |
-| 5 |
-| 5a |
-| 5a1 |
-| 5a2 |
-| 5a3 |
-| 5b |
-| 6 |
-| 6a |
-| 6a1 |
-| 6a2 |
-| 6a3 |
-| 6a4 |
-| 6a5 |
-| 6a6 |
-| 6a7 |
-| 6a8 |
-| 6a9 |
-| 7 |
-| 8 |
-| 9 |
-| 9a |
-| 10 |
-| 11 |
-| 11a |
-| 11b |
-| 11c |
-| 12 |
-| 12a |
-| 13 |
-| 13a |
+| Regions | Sample 1 |
+| ------- | -------- |
+| 1 | :heavy_check_mark: |
+| 2 | :heavy_check_mark: |
+| 2a |  |
+| 2a1 |  |
+| 3 | :heavy_check_mark: |
+| 4 | :heavy_check_mark: |
+| 4a |  |
+| 4a1 |  |
+| 5 |  |
+| 5a |  |
+| 5a1 |  |
+| 5a2 |  |
+| 5a3 |  |
+| 5b |  |
+| 6 |  |
+| 6a |  |
+| 6a1 |  |
+| 6a2 |  |
+| 6a3 |  |
+| 6a4 |  |
+| 6a5 |  |
+| 6a6 |  |
+| 6a7 |  |
+| 6a8 |  |
+| 6a9 |  |
+| 7 |  |
+| 8 |  |
+| 9 |  |
+| 9a |  |
+| 10 |  |
+| 11 |  |
+| 11a |  |
+| 11b |  |
+| 11c |  |
+| 12 | :heavy_check_mark: |
+| 12a | :heavy_check_mark: |
+| 13 |  |
+| 13a | :heavy_check_mark: |
